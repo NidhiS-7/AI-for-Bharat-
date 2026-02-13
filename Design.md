@@ -143,6 +143,7 @@ This AI-powered platform addresses critical gaps in India's developer ecosystem 
 
 ---
 
-**Team**: [Your Team Name]
-**Contact**: [Your Contact Info]
+**Team**: coderr
+**Contact**: nidhisatle7@gmail.com
 **Hackathon**: AI for Bharat
+**Problem Statement**: Build an AI-powered solution that helps people learn faster, work smarter, or become more productive while building or understanding technology.
