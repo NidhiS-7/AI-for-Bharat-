@@ -16,6 +16,16 @@ This project addresses critical gaps in India's developer ecosystem by providing
 - **Intelligent Developer Productivity Tools** for faster, better coding
 - **India-First Approach** with regional language support and offline capabilities
 
+## 🎯 Goals
+Problem Statement: Build an AI-powered solution that helps people learn faster, work smarter, or become more productive while building or understanding technology.
+• Learning assistants, tutors, or explainers for technical or non-technical topics
+• Developer productivity tools (documentation helpers, workflow assistants, debugging aids)
+• AI tools that simplify complex concepts, codebases, or workflows
+• Knowledge organization, summarization, or skill-building systems
+
+Focus:
+Clarity, usefulness, and how AI meaningfully improves the learning or building experience.
+
 ## 🌟 Key Features
 
 ### AI Learning Assistant
@@ -137,15 +147,15 @@ I welcome contributions! Please feel free to submit issues and pull requests.
 
 ## 📧 Contact
 
-- **Email**: [nidhisatle@gmail.com]
-- **GitHub**: [github.com/NidhiS-7]
+- **Email**: nidhisatle@gmail.com
+- **GitHub**: github.com/NidhiS-7
 
 ## 🙏 Acknowledgments
 
 - AI for Bharat Hackathon organizers
 - AI4Bharat for Indic language models
-- Open-source community
 
 ---
 
 *Empowering Bharat's coding future, one line at a time*
+
