@@ -147,7 +147,7 @@ I welcome contributions! Please feel free to submit issues and pull requests.
 
 ## 📧 Contact
 
-- **Email**: nidhisatle@gmail.com
+- **Email**: nidhisatle7@gmail.com
 - **GitHub**: github.com/NidhiS-7
 
 ## 🙏 Acknowledgments
